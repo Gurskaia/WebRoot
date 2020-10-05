@@ -23,5 +23,11 @@ img {
     border: rgb(82, 78, 78) solid 15px;
   }
   
+  
    
+  #CodeCademy, #W3S, #linkedin, #geeksforgeeks, #freecodecamp{
+    max-width: 100px;
+    height: 100px;
+
+  }
   
