@@ -13,14 +13,20 @@ img {
   }
   
   .container, .container-fluid {
-    background-color: rgb(109, 240, 194);
+    background-color:rgb(248, 213, 241);
     border:  rgb(239, 217, 202) solid 10px;
     
+  }
+  .col-4
+  {
+
+    background-color:rgb(248, 213, 241);
+  
   }
   
   .row {
     background-color: rgb(248, 213, 241);
-    border: rgb(82, 78, 78) solid 15px;
+    border: rgb(82, 78, 78) solid 10px;
   }
   
   
